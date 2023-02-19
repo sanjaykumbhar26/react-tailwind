@@ -1,0 +1,21 @@
+.button-success {
+
+}
+
+body {
+  background-color: #e5e7eb;
+  padding-top: 30px;
+  /* 2 */
+}
+
+.button-danger{
+   -moz-transform:rotate(-180deg);
+    -webkit-transform:rotate(-180deg);
+    transform:rotate(-180deg);
+}
+
+.button-success {
+   -moz-transform:rotate(0);
+    -webkit-transform:rotate(0);
+    transform:rotate(0);
+}
